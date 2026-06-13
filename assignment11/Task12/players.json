@@ -1,0 +1,15 @@
+[
+  { "id": "1", "name": "Khvicha Kvaratskhelia", "nation": "Georgia" },
+  { "id": "2", "name": "Georges Mikautadze", "nation": "georgia" },
+  { "id": "3", "name": "Giorgi Mamardashvili", "nation": "Georgia" },
+  { "id": "4", "name": "Jude Bellingham", "nation": "England" },
+  { "id": "5", "name": "Harry Kane", "nation": "england" },
+  { "id": "6", "name": "Lamine Yamal", "nation": "Spain" },
+  { "id": "7", "name": "Rodri", "nation": "spain" },
+  { "id": "8", "name": "Jamal Musiala", "nation": "Germany" },
+  { "id": "9", "name": "Florian Wirtz", "nation": "germany" },
+  { "id": "10", "name": "Cristiano Ronaldo", "nation": "Portugal" },
+  { "id": "11", "name": "Rafael Leao", "nation": "portugal" },
+  { "id": "12", "name": "Gianluigi Donnarumma", "nation": "Italy" },
+  { "id": "13", "name": "Nicolo Barella", "nation": "italy" }
+]
